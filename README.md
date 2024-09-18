@@ -35,6 +35,7 @@ Media Organizer is a desktop application built with Java and JavaFX that allows 
 ## Technology Stack
 - Java 17: Core programming language for building the application.
 - JavaFX: UI framework for creating interactive and modern user interfaces.
+- CSS: Used for styling interfaces in SceneBuilder and JavaFX.
 - SceneBuilder: Visual layout tool for design JavaFX interfaces.
 - Maven: Dependency management and project build automation.
 - Gson: Library used for JSON serialization and deserialization.
