@@ -1,22 +1,5 @@
 {
   "value": "Movies",
   "type": "Folder",
-  "children": [
-    {
-      "value": "izlenecekler",
-      "type": "Folder",
-      "children": [
-        {
-          "value": "Marvel",
-          "type": "Page",
-          "children": []
-        },
-        {
-          "value": "New Page",
-          "type": "Page",
-          "children": []
-        }
-      ]
-    }
-  ]
+  "children": []
 }
