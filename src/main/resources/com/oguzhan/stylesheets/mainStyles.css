@@ -1,0 +1,50 @@
+/* Style for the ScrollPane itself */
+.scroll-pane {
+    -fx-background-color: #03012b; /* Background color of the ScrollPane */
+}
+
+/* Style for the viewport of the ScrollPane */
+.scroll-pane .viewport {
+    -fx-background-color: #03012b; /* Background color of the viewport */
+}
+
+/* Style for the vertical scrollbar */
+.scroll-pane .scroll-bar:vertical {
+    -fx-background-color: #02337a; /* Background color of the scrollbar track */
+}
+
+/* Style for the horizontal scrollbar */
+.scroll-pane .scroll-bar:horizontal {
+    -fx-background-color: #02337a; /* Background color of the scrollbar track */
+}
+
+/* Style for the scrollbar thumb (the part that moves) */
+.scroll-pane .scroll-bar .thumb {
+    -fx-background-color: #42a5f5; /* Color of the scrollbar thumb */
+    -fx-background-radius: 5px; /* Rounded corners for the thumb */
+}
+
+/* Style for the scrollbar increment and decrement buttons (optional) */
+.scroll-pane .increment-button, .scroll-pane .decrement-button {
+    -fx-background-color: #42a5f5; /* Color of the scrollbar buttons */
+}
+
+
+
+.tree-view {
+    -fx-background-color: #02337a;
+}
+
+.tree-cell {
+    -fx-text-fill: white;
+    -fx-background-color: #02337a;
+}
+
+.tree-cell:selected {
+    -fx-background-color: #0054a6; /* Lighter blue for selected items */
+    -fx-text-fill: white; /* Keep text white */
+}
+
+.tree-cell:hover {
+    -fx-background-color: #034e96; /* Slightly lighter blue when hovered */
+}
