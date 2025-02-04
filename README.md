@@ -3,7 +3,8 @@ Media Organizer is a desktop application built with Java and JavaFX that allows 
 
 ![Screenshot from 2025-02-05 01-39-51](https://github.com/user-attachments/assets/395bc3fd-572f-471f-80f9-e28f09ee2e8f)
 ![Screenshot from 2025-02-05 01-44-13](https://github.com/user-attachments/assets/0711f524-26e7-4eeb-bebb-82e12fa0e1d8)
-![Screenshot from 2025-02-05 01-45-28](https://github.com/user-attachments/assets/78f6eb51-f117-428e-9c56-713dac5e27d0)
+![Screenshot from 2025-02-05 01-46-59](https://github.com/user-attachments/assets/07ac29d2-4937-452f-bdc0-c4a697aa2eca)
+
 
 
 
