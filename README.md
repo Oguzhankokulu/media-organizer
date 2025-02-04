@@ -1,11 +1,10 @@
 # Media Organizer - JavaFX Application
 Media Organizer is a desktop application built with Java and JavaFX that allows users to organize movies into custom folders and pages. Users can easily create, manage, and view their media collections, complete with detailed metadata like runtime, ratings, and personal notes.
 
-![Screenshot from 2025-02-05 01-39-51](https://github.com/user-attachments/assets/395bc3fd-572f-471f-80f9-e28f09ee2e8f)
+
+![Screenshot from 2025-02-05 01-47-37](https://github.com/user-attachments/assets/e1324d34-9c68-4cd6-b185-f474336ce6d5)
 ![Screenshot from 2025-02-05 01-44-13](https://github.com/user-attachments/assets/0711f524-26e7-4eeb-bebb-82e12fa0e1d8)
 ![Screenshot from 2025-02-05 01-46-59](https://github.com/user-attachments/assets/07ac29d2-4937-452f-bdc0-c4a697aa2eca)
-
-
 
 
 
